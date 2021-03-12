@@ -137,6 +137,8 @@ def main():
     print('hello')
     print("zqh 杀马特之王")
     print(",,,,,,")
+    print("牛奶咖啡")
+
 
 if __name__ == "__main__":
     main()

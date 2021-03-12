@@ -135,6 +135,7 @@ def main():
     # sys.stdout.flush()
     f.close()
     print('hello')
+    print("zqh 杀马特之王")
 
 if __name__ == "__main__":
     main()
